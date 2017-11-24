@@ -10,7 +10,6 @@ public class olamigoss {
 	numero = LerS.nextInt();
 	for(int I=1; I<=numero; I++) {
 	soma +=I;
-	System.out.println(I);
 	}
 	System.out.println(soma);;		
 
